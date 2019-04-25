@@ -16,3 +16,6 @@ Try selecting the Built-In Framer Library version from the File menu.
 [2019-04-25 12:15:16.1160] - DEBUG - [Save session: 0] Completed waitUsingRecursiveRunLoop
 [2019-04-25 12:15:16.1180] - INFO - Marking changed: false
 [2019-04-25 12:15:16.1340] - DEBUG - [Save session: 0] Completed super.save
+[2019-04-25 12:15:48.2690] - INFO - Backing up to /Users/wwikgren/Documents/dev/other/sweeper/sweeper.framerfx/.backups/2019-04-25 12.15.48.zip
+[2019-04-25 12:55:05.3230] - INFO - writing standalone output /Users/wwikgren/Documents/dev/other/sweeper/sweeper.framerfx/index.html
+[2019-04-25 12:55:05.4750] - INFO - standalone export done: /Users/wwikgren/Documents/Frame 50
