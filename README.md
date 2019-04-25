@@ -1,4 +1,4 @@
-# H1 FramerX-experimentation
+# FramerX-experimentation
 
 A crude minesweeper created to practise FramerX
 
