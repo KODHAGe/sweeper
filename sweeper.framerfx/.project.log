@@ -1,0 +1,18 @@
+[2019-04-25 12:14:47.9820] - INFO - Reading from /Users/wwikgren/Documents/dev/other/sweeper/sweeper.framerfx (origin); preserving existing contents of project folder: true
+[2019-04-25 12:14:47.9920] - INFO - Done reading
+[2019-04-25 12:14:47.9930] - INFO - Marking changed: false
+[2019-04-25 12:14:48.1570] - INFO - Proxy Config: exceptions: *.local, 169.254/16
+[2019-04-25 12:14:49.6660] - INFO - GET 200 /design/document.json 0 B (12ms)
+[2019-04-25 12:14:53.9830] - INFO - GET 200 /node_modules/framer/build/framer.debug.js 0 B (4ms)
+[2019-04-25 12:14:54.1500] - WARNING - Project might be incompatible with this Framer X version (0.10.10 is not listed as compatible version in "^0.8.0")
+
+Try selecting the Built-In Framer Library version from the File menu.
+[2019-04-25 12:14:54.7760] - WARNING - "@framer/benjamin.web-fonts#framer@^0.7.8" doesn't satisfy found match of "framer@0.8.0"
+[2019-04-25 12:14:54.7760] - WARNING - "@framer/benjamin.web-fonts#@framer/artem.material-ui#framer@^0.7.2" doesn't satisfy found match of "framer@0.8.0"
+[2019-04-25 12:15:16.1020] - DEBUG - [Save session: 0] Started, operation: saveOperation
+[2019-04-25 12:15:16.1020] - DEBUG - [Save session: 0] Before container.writeChanges
+[2019-04-25 12:15:16.1020] - DEBUG - [Save session: 0] Before waitUsingRecursiveRunLoop
+[2019-04-25 12:15:16.1160] - DEBUG - [Save session: 0] Completed container.writeChanges
+[2019-04-25 12:15:16.1160] - DEBUG - [Save session: 0] Completed waitUsingRecursiveRunLoop
+[2019-04-25 12:15:16.1180] - INFO - Marking changed: false
+[2019-04-25 12:15:16.1340] - DEBUG - [Save session: 0] Completed super.save

@@ -1,0 +1,20 @@
+{
+	"main": "build/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.0.31",
+		"framer": "^0.8.0"
+	},
+	"peerDependencies": {
+		"framer": "^0.8.0",
+		"react": "^16.3.0",
+		"react-dom": "^16.3.0"
+	},
+	"framer": {
+		"id": "d05de7d1-8b82-44d8-b6e9-a208cce54ff6"
+	},
+	"author": "Wolf Wikgren",
+	"dependencies": {
+		"@framer/benjamin.web-fonts": "^1.5.0"
+	}
+}
